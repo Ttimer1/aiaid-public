@@ -2,53 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://ttimer1.github.io/aiaid-public/</loc>
-        <lastmod>2024-01-01</lastmod>
+        <lastmod>2025-09-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/main-logo.png</image:loc>
-            <image:caption>AI Aid Main Logo</image:caption>
-            <image:title>AI Aid Primary Logo</image:title>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/ai-aid-logo-close-up.png</image:loc>
+            <image:caption>AI Aid Main Logo (PNG)</image:caption>
+            <image:title>AI Aid Primary Logo PNG</image:title>
         </image:image>
         <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/logo-dark.png</image:loc>
-            <image:caption>AI Aid Dark Logo</image:caption>
-            <image:title>AI Aid Dark Version Logo</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/logo-light.png</image:loc>
-            <image:caption>AI Aid Light Logo</image:caption>
-            <image:title>AI Aid Light Version Logo</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/screenshots/main-interface.png</image:loc>
-            <image:caption>AI Aid Main Interface Screenshot</image:caption>
-            <image:title>AI Aid Application Interface</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/screenshots/dashboard.png</image:loc>
-            <image:caption>AI Aid Dashboard Screenshot</image:caption>
-            <image:title>AI Aid User Dashboard</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/screenshots/mobile-view.png</image:loc>
-            <image:caption>AI Aid Mobile Interface Screenshot</image:caption>
-            <image:title>AI Aid Mobile Responsive Design</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/banners/hero-banner.png</image:loc>
-            <image:caption>AI Aid Hero Banner</image:caption>
-            <image:title>AI Aid Main Promotional Banner</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/banners/social-media-banner.png</image:loc>
-            <image:caption>AI Aid Social Media Banner</image:caption>
-            <image:title>AI Aid Social Media Promotional Banner</image:title>
-        </image:image>
-        <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/icons/app-icon.png</image:loc>
-            <image:caption>AI Aid Application Icon</image:caption>
-            <image:title>AI Aid App Icon 512x512</image:title>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/ai-aid-logo-close-up.jpeg</image:loc>
+            <image:caption>AI Aid Main Logo (JPEG)</image:caption>
+            <image:title>AI Aid Primary Logo JPEG</image:title>
         </image:image>
         <image:image>
             <image:loc>https://ttimer1.github.io/aiaid-public/images/icons/favicon.png</image:loc>
@@ -56,14 +21,29 @@
             <image:title>AI Aid Favicon 32x32</image:title>
         </image:image>
         <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/gallery/feature-showcase.png</image:loc>
-            <image:caption>AI Aid Feature Showcase</image:caption>
-            <image:title>AI Aid Product Features</image:title>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-announcement.png</image:loc>
+            <image:caption>AI Aid Mascotte – Transparent Announcement</image:caption>
+            <image:title>AI Aid Mascotte Transparent</image:title>
         </image:image>
         <image:image>
-            <image:loc>https://ttimer1.github.io/aiaid-public/images/gallery/team-photo.png</image:loc>
-            <image:caption>AI Aid Team Photo</image:caption>
-            <image:title>AI Aid Team Members</image:title>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-robot-belt.png</image:loc>
+            <image:caption>AI Aid Mascotte – Robot belt</image:caption>
+            <image:title>AI Aid Mascotte Robotbelt</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-cutout.png</image:loc>
+            <image:caption>AI Aid Mascotte – Cutout</image:caption>
+            <image:title>AI Aid Mascotte Cutout</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-photo.jpeg</image:loc>
+            <image:caption>AI Aid Mascotte – Photo variant</image:caption>
+            <image:title>AI Aid Mascotte Photo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascpak.png</image:loc>
+            <image:caption>AI Aid Mascotte – MascPak</image:caption>
+            <image:title>AI Aid MascPak</image:title>
         </image:image>
     </url>
 </urlset>
