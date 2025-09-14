@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://ttimer1.github.io/aiaid-public/</loc>
+        <lastmod>2025-09-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/ai-aid-logo-close-up.png</image:loc>
+            <image:caption>AI Aid Main Logo (PNG)</image:caption>
+            <image:title>AI Aid Primary Logo PNG</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/logos/ai-aid-logo-close-up.jpeg</image:loc>
+            <image:caption>AI Aid Main Logo (JPEG)</image:caption>
+            <image:title>AI Aid Primary Logo JPEG</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/icons/favicon.png</image:loc>
+            <image:caption>AI Aid Website Favicon</image:caption>
+            <image:title>AI Aid Favicon 32x32</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-announcement.png</image:loc>
+            <image:caption>AI Aid Mascotte – Transparent Announcement</image:caption>
+            <image:title>AI Aid Mascotte Transparent</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-robot-belt.png</image:loc>
+            <image:caption>AI Aid Mascotte – Robot belt</image:caption>
+            <image:title>AI Aid Mascotte Robotbelt</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-cutout.png</image:loc>
+            <image:caption>AI Aid Mascotte – Cutout</image:caption>
+            <image:title>AI Aid Mascotte Cutout</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascotte-photo.jpeg</image:loc>
+            <image:caption>AI Aid Mascotte – Photo variant</image:caption>
+            <image:title>AI Aid Mascotte Photo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://ttimer1.github.io/aiaid-public/images/mascotte/mascpak.png</image:loc>
+            <image:caption>AI Aid Mascotte – MascPak</image:caption>
+            <image:title>AI Aid MascPak</image:title>
+        </image:image>
+    </url>
+</urlset>
