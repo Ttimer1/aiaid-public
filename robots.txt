@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Allow access to image files
+Allow: /images/
+Allow: *.png
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.gif
+Allow: *.svg
+Allow: *.webp
+
+# Sitemap location
+Sitemap: https://ttimer1.github.io/aiaid-public/sitemap.xml
+
+# Crawl delay (optional - 1 second delay between requests)
+Crawl-delay: 1
